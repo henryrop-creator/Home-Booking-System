@@ -1,6 +1,5 @@
-
-export const test = (req,res)=>{
+export const test = (req, res) => {
     res.json({
-        message:"api routes is working",
+        message: 'hello fello',
     });
 };
